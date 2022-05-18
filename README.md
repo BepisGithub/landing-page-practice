@@ -1,0 +1,1 @@
+This is a project to create a landing page for front-end practice (just for fun)
