@@ -6,3 +6,7 @@ body{
     height: 100vh;
     width: auto;
 }
+
+.Q1, .Q2, .Q3, .Q4{
+    display: flex;
+}
