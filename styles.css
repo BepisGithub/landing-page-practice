@@ -29,6 +29,10 @@ header {
     padding: 0 100px;
 }
 
+.Q1 .main-content{
+    display: flex;
+}
+
 .Q3{
     background-color: #E5E7EB;
 }
