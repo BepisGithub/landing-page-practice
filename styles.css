@@ -9,4 +9,5 @@ body{
 
 .Q1, .Q2, .Q3, .Q4{
     display: flex;
+    width: 100vw;
 }
