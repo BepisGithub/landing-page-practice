@@ -23,6 +23,11 @@ footer{
     background-color: #1f2937;
 }
 
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
 .Q3{
     background-color: #E5E7EB;
 }
