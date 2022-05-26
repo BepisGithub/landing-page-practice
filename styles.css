@@ -7,7 +7,7 @@ body{
     width: auto;
 }
 
-.Q1, .Q2, .Q3, .Q4{
+.Q1, .Q2, .Q3, .Q4, footer{
     display: flex;
     width: 100vw;
 }
