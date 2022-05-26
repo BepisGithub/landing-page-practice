@@ -11,3 +11,15 @@ body{
     display: flex;
     width: 100vw;
 }
+
+footer{
+    background-color: #1f2937;
+}
+
+.Q1{
+    background-color: #1f2937;
+}
+
+.Q3{
+    background-color: #E5E7EB;
+}
