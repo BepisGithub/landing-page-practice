@@ -12,11 +12,14 @@ body{
     width: 100vw;
 }
 
+
+
 footer{
     background-color: #1f2937;
 }
 
 .Q1{
+    flex-direction: column;
     background-color: #1f2937;
 }
 
