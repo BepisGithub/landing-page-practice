@@ -44,7 +44,7 @@ img{
 
 .header-links{
     display: flex;
-    justify-content: space-between;
+    gap: 15px;
 }
 
 .Q3{
