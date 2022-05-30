@@ -13,7 +13,6 @@ body{
 }
 
 
-
 footer{
     background-color: #1f2937;
 }
@@ -27,6 +26,12 @@ header {
     display: flex;
     justify-content: space-between;
     padding: 0 100px;
+}
+
+img{
+    height: 200px;
+    width: 400px;
+    background-color: grey;
 }
 
 .Q1 .main-content{
